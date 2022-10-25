@@ -1,0 +1,29 @@
+.reveal pre {
+    pointer-events: all;
+    padding: 30px;
+}
+
+pre code {
+    font-size: inherit;
+}
+
+pre .popover {
+    color: black !important;
+}
+
+pre .arrow {
+    margin-left: 0.5rem;
+}
+
+pre.twoslash data-lsp:hover::before {
+    line-height: 1em;
+    font-size: inherit;
+}
+
+pre .error {
+    width: calc(100% - 65px);
+}
+
+.shiki {
+    border: 1px solid rgb(153, 153, 153);
+}

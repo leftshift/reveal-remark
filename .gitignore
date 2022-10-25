@@ -1,0 +1,7 @@
+node_modules/
+dist/
+assets/
+presentation.html
+!assets/shiki-twoslash.css
+!assets/patch.css
+!assets/init.js

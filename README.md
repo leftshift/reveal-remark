@@ -2,6 +2,8 @@
 
 This is a collection of bits you can use to build a [reveal.js](https://revealjs.com/) presentation from markdown using [remark](https://github.com/remarkjs/remark/tree/main) with [shiki-twoslash](https://github.com/shikijs/twoslash) to provide rich syntax highlighting with typescript type information.
 
+[See it in action](https://leftshift.github.io/reveal-remark/)
+
 ## How to use
 
 You need node and npm installed on your machine.

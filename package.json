@@ -8,8 +8,8 @@
     "start": "node dist/generate.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "leftshift",
+  "license": "AGPL-3.0-only",
   "dependencies": {
     "@typescript/twoslash": "^3.1.0",
     "rehype-document": "^6.1.0",

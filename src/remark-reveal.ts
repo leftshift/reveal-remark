@@ -93,7 +93,6 @@ function splitSlides(elements: ElementContent[]): Element[] {
         continue;
       }
     }
-    console.log(node);
     if (notes) {
       currentNotes.push(node)
     } else {
@@ -114,8 +113,6 @@ function splitSlides(elements: ElementContent[]): Element[] {
       children: arr
     }
   }
-
-  console.log(sections);
 
   return sections.map((section) => {
     return arrayToSection(
